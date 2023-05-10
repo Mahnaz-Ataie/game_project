@@ -1,0 +1,34 @@
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: gray;
+}
+.gameover {
+  background-color: brown;
+  opacity: 0.8;
+}
+body {
+  background-color: blueviolet;
+  text-align: center;
+}
+button {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border-radius: 20px;
+  border-color: black;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
+#blue {
+  background-color: blue;
+}
